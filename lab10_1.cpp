@@ -39,7 +39,7 @@ int main(){
 		} 
 	}while(grade != '0');
 
-	cout << "In total" <<total <<" students.";
+	cout << "In total" <<total <<" students."<<endl;
 	cout << "A = " << count[0] <<", ";
 	cout << "B = " << count[1] <<", ";	
 	//	and so on ... for grade = C, D, F
